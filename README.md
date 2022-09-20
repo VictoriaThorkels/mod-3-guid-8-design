@@ -18,7 +18,7 @@ Colors: For my primary color I wanted somthing "clean" and "sleek" what better t
 
 White-space: Was added all over the website to make it look simple, sleek and clutter-free.
 
-Header: I took all the info from the nav bar and split them into two dropdown menu functions, "Trips" and "Destinations". Trips whould show all the pre-planed trips to Asia that you could book and destinations would show you all the destinations in Asia that the company has to offer.in addition I added a "book your trip" button and made it stand out with the orange color that it would be an obvious button. Orange was my secondary color, here I used it to connect the logo more to the website.
+Header: I took all the info from the nav bar and split them into two dropdown menu functions, "Trips" and "Destinations". Trips whould show all the pre-planed trips to Asia that you could book and destinations would show you all the destinations in Asia that the company has to offer.in addition I added a "book your trip" button and made it stand out with the orange color that it would be an obvious button. Orange was my secondary color, here I used it to connect the logo more to the website. The maine image that is spread over the section is one of an asian sunset I picked this photo to connect the primary-color and make it feel nice, comforting and calm, just like the process.
 
 Boxes/Frames: All boxes or frames have a slightly curved corner to make it more soft and not as sharp. But no so much as to lose the square shape.
 
