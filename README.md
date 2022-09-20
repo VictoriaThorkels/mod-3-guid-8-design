@@ -1,6 +1,6 @@
 # mod-3-guid-8-design
 
-Link to original website: https://www.ferdin.is/bali/
+Link to original website: [](https://www.ferdin.is/)
 
 When starting this guide. I looked over the original wbsite and wrote down my initial thoughts, problems and how I would fix them.
 
